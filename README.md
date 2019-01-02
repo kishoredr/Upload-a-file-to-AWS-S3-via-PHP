@@ -1,4 +1,4 @@
-﻿# Upload-a-file-to-AWS-S3-via-PHP
+﻿# Amazon S3 File Upload using PHP
 
 Download the AWS SDK for PHP via composer
 
